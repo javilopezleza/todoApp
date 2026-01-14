@@ -1,0 +1,11 @@
+.text-decoration-line-through {
+    text-decoration: line-through;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.invisible {
+    display: none;
+}
